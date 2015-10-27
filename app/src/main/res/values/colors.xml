@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="splashBackground">#0D426C</color>
+    <color name="ColorPrimaryDark">#05223B</color>
+    <color name="tabsScrollColor">#004D40</color>
+    <color name="ColorPrimary">#0D426C</color>
+    <color name="progressColor">#FF9500</color>
+    <color name="productNameColor">#015294</color>
+    <color name="productPriceColor">#4E595D</color>
+    <color name="storeTextColor">#949494</color>
+    <color name="voteCountColor">#797979</color>
+    <color name="translucent_black">#80000000</color>
+
+
+
+
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ZZCustom\Shop\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\classes-3662ae3e71d83ee17b9507367b83f041a50c27e4.jar" />
+    </item>
+    <item
+        jar="D:\ZZCustom\Shop\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-d7217860a8c146b95c94ffa030c549025f201dea.jar" />
+    </item>
+    <item
+        jar="D:\ZZCustom\Shop\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\classes-d1fa70d35d91ebcfd5ef0cd70a6301729650ca31.jar" />
+    </item>
+    <item
+        jar="D:\ZZCustom\Shop\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\classes-f5ef8858d2d8ab75efb4ec8713df5f8b3b9411e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen Kumar\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\gson-2.4-e96c7d77100635d2b021b9650ba2b85c72697dfa.jar" />
+    </item>
+    <item
+        jar="D:\ZZCustom\Shop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\classes-b70f07a095b25cfe39a4af3598ae131c1e6470e4.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-6caa1fe4da30cf2cc1676a54cb9890359b7ae5e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen Kumar\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\picasso-2.5.2-ce3ede7fc4bc526e5fe6b75a5d696b15b6d75f2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Praveen Kumar\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="D:\ZZCustom\Shop\app\build\intermediates\pre-dexed\release\com.android.volley-2015.05.28-7d8e6e22b0070441893e4d048a7af064e0e77e4e.jar" />
+    </item>
+
+</items>

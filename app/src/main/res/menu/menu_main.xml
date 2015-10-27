@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item
+        android:id="@+id/shareapp"
+        android:title="@string/share_this_app"
+        />
+
+    <item
+        android:id="@+id/feedback"
+        android:title="@string/feedback"
+        />
+
+    <item
+        android:id="@+id/rateapp"
+        android:title="@string/rate_this_app"
+        />
+</menu>
