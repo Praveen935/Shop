@@ -11,6 +11,7 @@ import android.text.TextUtils;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.webkit.URLUtil;
 import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
@@ -201,6 +202,8 @@ public class ProductListingActivity extends AppCompatActivity implements IProduc
         if(mListSelectedTags != null && mListSelectedTags.size() > 0) {
             String url = URLUtils.getUrlFromTagList(mListSelectedTags);
             productListingPresenter.getProductListingData(getApplicationContext(), url);
+        }else {
+            productListingPresenter.getProductListingData(getApplicationContext(), URLUtils.LAUNCH_URL);
         }
     }
 
